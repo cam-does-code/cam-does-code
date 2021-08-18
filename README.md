@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 My name is Cam! 
 
 <!--
 **cabartell/cabartell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My name is Cam! 
 ### I'm a student @ 42 Wolfsburg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabartell)](https://github.com/anuraghazra/github-readme-stats)
