@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## My name is Cam! 
 ### I'm a student @ 42 Wolfsburg
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cabartell=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabartell)](https://github.com/anuraghazra/github-readme-stats)
