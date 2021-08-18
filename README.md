@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ### I'm a student @ 42 Wolfsburg
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabartell)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top_lang/?username=cabartell&theme=dark" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabartell)](https://github.com/anuraghazra/github-readme-stats)
 
